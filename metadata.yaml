@@ -1,0 +1,34 @@
+_repo: A-Versailles-Christmas-Tide_10813
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Boyd, A. S. (Alexander Stuart)
+    alias: Boyd, Alexander Stuart
+    birthdate: 1854
+    deathdate: 1930
+    gutenberg_agent_id: '4548'
+    url: http://www.gutenberg.org/2009/agents/4548
+creator:
+  author:
+    agent_name: Boyd, Mary Stuart
+    deathdate: 1937
+    gutenberg_agent_id: '3695'
+    url: http://www.gutenberg.org/2009/agents/3695
+description: ''
+gutenberg_bookshelf: Christmas
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10813'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcc 'PR'
+- !lcsh 'Boyd, Mary Stuart -- Travel -- France'
+- !lcsh 'Versailles (France) -- Description and travel'
+- GITenberg
+title: A Versailles Christmas-Tide
+url: http://www.gutenberg.org/ebooks/10813
